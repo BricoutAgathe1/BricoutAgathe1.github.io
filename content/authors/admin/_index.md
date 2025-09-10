@@ -3,7 +3,7 @@
 title: Agathe Bricout
 
 # Name pronunciation (optional)
-name_pronunciation: ah-gaht bree-coo
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Agathe
@@ -42,8 +42,8 @@ profiles:
 education:
   - area: PhD in Precision Medicine
     institution: University of Edinburgh
-    date_start: 01-09-2023
-    date_end: 31-08-2027
+    date_start: 2023-09-01
+    date_end: 2027-08-31
     summary: |
       Thesis name: Objective measurements of ultrasound image quality to enhance the commercial development cycle of clinical ultrasound scanners. Supervised by [Prof Carmel Moran](https://edwebprofiles.ed.ac.uk/profile/carmel-moran). Presented papers at the IPEM 2025 symposium on ultrasonics quality assurance, and the MIUA 2025 conference on artificial intelligence in medical imaging.
     button:
@@ -51,8 +51,8 @@ education:
       url: 'https://example.com'
   - area: MEng Biomedical Engineering
     institution: King's College London
-    date_start: 01-09-2019
-    date_end: 31-07-2023
+    date_start: 2019-09-01
+    date_end: 2023-07-31
     summary: |
       First-class honours
 
