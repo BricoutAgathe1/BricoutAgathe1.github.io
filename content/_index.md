@@ -28,7 +28,7 @@ sections:
       # Avatar customization
       avatar:
         size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: rounded # Options: circle (default), square, rounded
+        shape: circle # Options: circle (default), square, rounded
   - block: experience
     content:
       username: admin
@@ -40,10 +40,6 @@ sections:
   - block: skills
     content:
       title: Skills & Hobbies
-      username: admin
-  - block: awards
-    content:
-      title: Awards
       username: admin
   - block: languages
     content:
