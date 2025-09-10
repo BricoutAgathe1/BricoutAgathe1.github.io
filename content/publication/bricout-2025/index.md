@@ -1,0 +1,52 @@
+---
+title: Acoustic Characterisation of the International Electrotechnical Commission
+  (IEC) Agar-based Tissue Mimicking Material Under Freeze-Thaw Cycles for Ultrasound
+  Test Objects
+authors:
+- Agathe Bricout
+- Stephen Pye
+- Scott Inglis
+- David Hardman
+- Carmel Moran
+date: '2025-01-01'
+publishDate: '2025-09-10T15:42:53.574691Z'
+publication_types:
+- paper-conference
+publication: '*IPEM Ultrasound symposium*'
+abstract: Background/Aims. Ultrasound is the second most utilised medical imaging
+  modality in England(NHS England, 2023), thanks to its non-invasive and non-ionising
+  nature, affordability, and portability(Carovac et al., 2011). Quality assurance
+  (QA) of ultrasound systems relies on test objects, often composed of tissue-mimicking
+  materials (TMM)(Dudley et al., 2014). The Edinburgh Pipe Phantom (EPP)(Pye & Ellis,
+  2002) is a test-object made from the IEC agar-based TMM (IEC, 2001), for assessing
+  imaging performance. Innovations in its design, such as incorporating polyvinyl
+  alcohol (PVA) cryogel pipes, require further exploration to easily vary the acoustic
+  properties within the pipes. Although the effects of freezing on agar's structural
+  properties are well documented(Dalvi-Isfahan et al., 2017), the impact on its acoustic
+  properties remain uncharacterised, limiting the integration of freeze-thaw cycles
+  into multi-material phantoms. This study aimed to acoustically characterise the
+  IEC agar-based TMM subjected to up to three freeze-thaw cycles, assessing its suitability
+  for constructing EPPs with PVA cryogel pipes. Methods. IEC agar-based TMM samples
+  were fabricated using a standardised recipe and preserved in a water-glycerol-benzalkonium
+  chloride solution. Samples underwent 0-3 freeze-thaw cycles, each comprising 12
+  hours at-18°C followed by controlled thawing. Acoustic properties, including speed
+  of sound, and acoustic attenuation were measured using through-transmission substitution
+  methods over the 3.5-50MHz frequency range, whilst the relative backscatter power
+  was measured using the substitution method(International Electrotechnical Commission,
+  2019). Microscopic analysis was conducted to observe structural changes. Results.
+  No significant variations in speed of sound, acoustic attenuation, or relative backscatter
+  power were observed across freeze-thaw cycles, over the 3.5-50MHz frequency range.
+  Acoustic attenuation averaged 0.57 ± 0.13 dB.cm-1 .MHz-1 and the speed of sound
+  was found to be 1536.72 ± 43.14 m.s-1 , both remaining consistent regardless of
+  freeze-thaw treatment. Microscopic analysis revealed structural changes, such as
+  micro-cracks, but these did not impact acoustic properties-however their impact
+  on imaging remains to be assessed. Discussion/Conclusion. The findings demonstrate
+  that IEC agar-based TMM maintains stable acoustic properties despite freeze-thaw-induced
+  structural changes. These results support its use in developing advanced phantoms,
+  such as the EPP with PVA cryogel pipes, broadening the scope of QA and training
+  applications in ultrasound imaging. Further work is required to optimise the incorporation
+  of PVA cryogel within EPPs.
+tags:
+- Key references
+url_pdf: https://www.ipem.ac.uk/media/t13l0ncu/usor-day-1-abstracts.pdf
+---
